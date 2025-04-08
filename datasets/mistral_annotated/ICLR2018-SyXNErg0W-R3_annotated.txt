@@ -1,0 +1,1 @@
+In the centre loss, the centre is learned.  Now it's calculated as the average of the last layer's features \nTo enable training with SGD, the authors calculate the centre within a mini batch[[CLA-POS],[JUS-NEG],[DEP-NEG],[FAI-POS],[CON-NEG],[ENG-NEG],[ACC-POS],[CST-NEG],[NOV-NEG],[ETH-NEG]]

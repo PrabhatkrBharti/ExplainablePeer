@@ -1,0 +1,1 @@
+ "The parameterized clipping activation (PACT) idea is very clear: extend clipping activation by learning the clipping parameter.  Then,  PACT is combined with quantizing the activations.  \n\nThe proposed technique sounds.  The performance improvement is expected and validated by experiments.  \n\nBut I am not sure if the novelty is strong enough for an ICLR paper. \n"

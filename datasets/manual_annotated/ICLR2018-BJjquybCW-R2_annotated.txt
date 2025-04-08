@@ -1,0 +1,1 @@
+This paper analyzes the expressiveness and loss surface of deep CNN.  I think the paper is clearly written, and has some interesting insights.[[CLA-POS],[JUS-NEU],[DEP-NEU],[FAI-NEU],[CON-NEU],[ENG-NEU],[ACC-NEU],[CST-NEU],[NOV-NEU],[ETH-NEU]]

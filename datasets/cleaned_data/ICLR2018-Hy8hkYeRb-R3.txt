@@ -1,0 +1,1 @@
+ "The paper attempts to extend the predictive coding model to a multilayer network.   The math is developed for a learning rule, and some demonstrations are shown for reconstructions of CIFAR-10 images. \n\nThe overall idea and approach being pursued here is a good one,  but the model needs further development.
