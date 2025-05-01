@@ -1,6 +1,6 @@
-# Argumentation-based Scoring of Peer Reviews
+# Argumentation Theory as a Bridge Between LLM Opacity and Peer Review Transparency.
 
-This repository contains the code, datasets, and analysis notebooks for the research paper, "FROM BLACK BOX TO GLASS HOUSE: Argumentation Theory as a Bridge Between LLM Opacity and Peer Review Transparency." The project evaluates peer reviews across 10 critical criteria using argumentation frameworks and leverages multiple datasets annotated by both humans and large language models (LLMs).
+This repository contains the code, datasets, and analysis notebooks for the research paper, "Argumentation Theory as a Bridge Between LLM Opacity and Peer Review Transparency." The project evaluates peer reviews across 10 critical criteria using argumentation frameworks and leverages multiple datasets annotated by both humans and large language models (LLMs).
 
 ---
 
