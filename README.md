@@ -1,7 +1,6 @@
 # ArGU-LLM: Interpretable Scientific Peer Review Assessment via Argumentation-Guided LLMs
 
 This repository provides the codebase, datasets, and analysis scripts for the paper "ArGU-LLM: Interpretable Scientific Peer Review Assessment via Argumentation-Guided LLMs." This reseach work presents a novel framework that utilizes argumentation theory to guide large language models (LLMs) in evaluating scientific peer reviews. ArGU-LLM assesses reviews across ten key evaluation criteria, enabling interpretable, consistent, and criterion-aligned review quality assessment. The approach is validated using multiple datasets annotated by both human experts and LLMs.
----
 
 ## Repository Structure
 
